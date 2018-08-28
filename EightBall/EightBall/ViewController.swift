@@ -23,6 +23,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var answerLabel: UILabel!
     
     private let answers = [
+        "Ilqar Ilyasov",
         "It is certain.",
         "It is decidedly so.",
         "Without a doubt.",
